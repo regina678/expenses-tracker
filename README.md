@@ -1,16 +1,30 @@
-<<<<<<< HEAD
-# React + Vite
+#Expense Tracker 
+A modern React application for tracking personal expenses with filtering, sorting, and data visualization capabilities.
+### Installation 
+1. Clone the repository:
+   ```bash
+   git@github.com:Gmaxwell1234/ExpenseTracker.git
+2. Install dependencies:
+   cd expense-tracker
+   npm install
+3. Run the development server:
+   npm run dev
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#Features 
+Add/Delete Expenses - Simple form for recording expenses
 
-Currently, two official plugins are available:
+Smart Filtering - Search expenses by description or category
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Sorting - Sort by amount, date, or category
 
-## Expanding the ESLint configuration
+Visual Reports - (Optional) Charts for spending analysis
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# expenses-tracker
->>>>>>> 70746c57fb3cb915b14a6a9935122d34fed33b99
+Responsive Design - Works on all device sizes
+
+#Technologies Used 
+React.js (Vite)
+
+JavaScript (ES6+)
+
+CSS3 (Flexbox/Grid)
+Vercel (Deployment)
